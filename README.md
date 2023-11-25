@@ -1,4 +1,4 @@
-# underlay-graph-processor
+# underlay-graph-processor - work in progress
 
 A series of processors which mine Jalapeno's ArangoDB for link state or IPv4/IPv6 prefixes, links, and nodes. The processors then correlate the data and create graph/edge collections in the DB.
 
